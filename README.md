@@ -10,6 +10,6 @@ I’m an Infrastructure and Operations Specialist with a strong focus on automat
 
 I am passionate about creating scalable infrastructure solutions and improving efficiency through automation. 
 
-Additionally, I share my insights and experiences on my blog: [SysNestor](https://sysnestor.com/). 
+Additionally, I share my insights and experiences on my blog: [SysNestor Project](https://blog.networkwhois.com/). 
 
-Feel free to explore my projects, connect with me, or reach out via email at [george@sysnestor.com](mailto:george@sysnestor.com).
+Feel free to explore my projects, connect with me, or reach out via email at [hello@networkwhois.com](mailto:hello@networkwhois.com).
